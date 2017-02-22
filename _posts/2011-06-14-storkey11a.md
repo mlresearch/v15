@@ -1,0 +1,22 @@
+---
+title: Machine Learning Markets
+abstract: Prediction markets show considerable promise for developing flexible mechanisms
+  for machine learning. Here, machine learning markets for multivariate systems are
+  defined, and a utility-based framework is established for their analysis. It is
+  shown that such markets can implement model combination methods used in machine
+  learning, such as product of expert and mixture of expert approaches as equilibrium
+  pricing models, by varying agent utility functions. They can implement models composed
+  of local potentials, and message passing methods. Prediction markets also allow
+  for more flexible combinations, by combining multiple different utility functions.  [pdf]
+pdf: "./storkey11a/storkey11a.pdf"
+layout: inproceedings
+key: storkey11a
+month: 0
+firstpage: 716
+lastpage: 724
+origpdf: http://jmlr.org/proceedings/papers/v15/storkey11a/storkey11a.pdf
+sections: 
+authors:
+- given: Amos
+  family: Storkey
+---

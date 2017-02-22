@@ -1,0 +1,28 @@
+---
+title: A novel greedy algorithm for NystrÃ¶m approximation
+abstract: The NystrÃ¶m method is an efficient technique for obtaining a low-rank approximation
+  of a large kernel matrix based on a subset of its columns. The quality of the NystrÃ¶m  approximation
+  highly depends on the subset of columns used, which are usually selected using random
+  sampling. This paper presents a novel recursive algorithm for calculating the NystrÃ¶m
+  approximation, and an effective greedy criterion for column selection. Further,
+  a very efficient variant is proposed for greedy sampling, which works on random
+  partitions of data instances. Experiments on benchmark data sets show that the proposed
+  greedy algorithms achieve significant improvements in approximating kernel matrices,
+  with minimum overhead in run time. [pdf][supplementary]
+pdf: "./farahat11a/farahat11a.pdf"
+supplementary: Supplementary:http://jmlr.org/proceedings/papers/v15/farahat11a/farahat11aSupple.pdf
+layout: inproceedings
+key: farahat11a
+month: 0
+firstpage: 269
+lastpage: 277
+origpdf: http://jmlr.org/proceedings/papers/v15/farahat11a/farahat11a.pdf
+sections: 
+authors:
+- given: Ahmed
+  family: Farahat
+- given: Ali
+  family: Ghodsi
+- given: Mohamed
+  family: Kamel
+---

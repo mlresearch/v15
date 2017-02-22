@@ -1,0 +1,32 @@
+---
+title: Maximum Volume Clustering
+abstract: 'The large volume principle proposed by Vladimir Vapnik, which advocates
+  that hypotheses lying in an equivalence class with a larger volume are more preferable,
+  is a useful alternative to the large margin principle. In this paper, we introduce
+  a clustering model based on the large volume principle called maximum volume clustering
+  (MVC), and propose two algorithms to solve it approximately: a soft-label and a
+  hard-label MVC algorithms based on sequential quadratic programming and semi-definite
+  programming, respectively. Our MVC model includes spectral clustering and maximum
+  margin clustering as special cases, and is substantially more general. We also establish
+  the finite sample stability and an error bound for the soft-label MVC method. Experiments
+  show that the proposed MVC approach compares favorably with state-of-the-art clustering
+  algorithms. [pdf][supplementary]'
+pdf: "./niu11b/niu11b.pdf"
+supplementary: Supplementary:http://jmlr.org/proceedings/papers/v15/niu11b/niu11bSupple.pdf
+layout: inproceedings
+key: niu11b
+month: 0
+firstpage: 561
+lastpage: 569
+origpdf: http://jmlr.org/proceedings/papers/v15/niu11b/niu11b.pdf
+sections: 
+authors:
+- given: Gang
+  family: Niu
+- given: Bo
+  family: Dai
+- given: Lin
+  family: Shang
+- given: Masashi
+  family: Sugiyama
+---

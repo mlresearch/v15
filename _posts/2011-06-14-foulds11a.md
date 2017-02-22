@@ -1,0 +1,32 @@
+---
+title: Revisiting MAP Estimation, Message Passing and Perfect Graphs
+abstract: Given a graphical model, one of them ost useful queries is to find the most
+  likely configuration of its variables. This task, known as the maximum a posteriori
+  (MAP) problem, can be solved efficiently via message passing techniques when the
+  graph is a tree, but is NP-hard for general graphs. Jebara (2009) shows that the
+  MAP problem can be converted into the stable set problem, which can be solved in
+  polynomial time for a broad class of graphs known as perfect graphs via a linear
+  programming relaxation technique. This is a result of great theoretical interest.
+  However, the article additionally claims that max-product linear programming (MPLP)
+  message passing techniques of Globerson and Jaakkola (2007) are also guaranteed
+  to solve these problems exactly and efficiently. We investigate this claim, show
+  that it does not hold, and repair it with alternative message passing algorithms.
+  [pdf]
+pdf: "./foulds11a/foulds11a.pdf"
+layout: inproceedings
+key: foulds11a
+month: 0
+firstpage: 278
+lastpage: 286
+origpdf: http://jmlr.org/proceedings/papers/v15/foulds11a/foulds11a.pdf
+sections: 
+authors:
+- given: James
+  family: Foulds
+- given: Nicholas
+  family: Navaroli
+- given: Padhraic
+  family: Smyth
+- given: Alexander
+  family: Ihler
+---

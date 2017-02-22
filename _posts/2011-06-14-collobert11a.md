@@ -1,0 +1,23 @@
+---
+title: Deep Learning for Efficient Discriminative Parsing
+abstract: We propose a new fast purely discriminative algorithm for natural language
+  parsing, based on a ``deep'' recurrent convolutional graph transformer network (GTN).
+  Assuming a decomposition of a parse tree into a stack of ``levels'', the network
+  predicts a level of the tree taking into account predictions of previous levels.
+  Using only few basic text features, we show similar performance (in F1 score) to
+  existing pure discriminative parsers and existing ``benchmark'' parsers (like Collins
+  parser, probabilistic context-free grammars based), with a huge speed advantage.
+  [pdf][supplementary]
+pdf: "./collobert11a/collobert11a.pdf"
+supplementary: Supplementary:http://jmlr.org/proceedings/papers/v15/collobert11a/collobert11aSupple.pdf
+layout: inproceedings
+key: collobert11a
+month: 0
+firstpage: 224
+lastpage: 232
+origpdf: http://jmlr.org/proceedings/papers/v15/collobert11a/collobert11a.pdf
+sections: 
+authors:
+- given: Ronan
+  family: Collobert
+---

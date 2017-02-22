@@ -1,0 +1,26 @@
+---
+title: Estimating Probabilities in Recommendation Systems
+abstract: Modeling ranked data is an essential component in a number of important
+  applications including recommendation systems and web-search. In many cases, judges
+  omit preference among unobserved items and between unobserved and observed items.
+  This case of analyzing incomplete   rankings is very important from a practical
+  perspective and yet has   not been fully studied due to considerable computational   difficulties.
+  We show how to avoid such computational difficulties   and efficiently construct
+  a non-parametric model for rankings with   missing items. We demonstrate our approach
+  and show how it applies in the context of collaborative filtering. [pdf]
+pdf: "./sun11a/sun11a.pdf"
+layout: inproceedings
+key: sun11a
+month: 0
+firstpage: 734
+lastpage: 742
+origpdf: http://jmlr.org/proceedings/papers/v15/sun11a/sun11a.pdf
+sections: 
+authors:
+- given: Mingxuan
+  family: Sun
+- given: Guy
+  family: Lebanon
+- given: Paul
+  family: Kidwell
+---
