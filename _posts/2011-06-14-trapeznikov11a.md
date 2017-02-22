@@ -20,17 +20,20 @@ abstract: Active learning deals with the problem of selecting a small subset of 
 pdf: "./trapeznikov11a/trapeznikov11a.pdf"
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v15/trapeznikov11a/trapeznikov11aSupple.pdf
 layout: inproceedings
-key: trapeznikov11a
+id: trapeznikov11a
 month: 0
 firstpage: 743
 lastpage: 751
+page: 743-751
 origpdf: http://jmlr.org/proceedings/papers/v15/trapeznikov11a/trapeznikov11a.pdf
 sections: 
-authors:
+author:
 - given: Kirill
   family: Trapeznikov
 - given: Venkatesh
   family: Saligrama
 - given: David
   family: Castanon
+date: '2011-06-14 00:12:23'
+publisher: PMLR
 ---

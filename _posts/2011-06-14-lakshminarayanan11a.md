@@ -10,17 +10,20 @@ abstract: We analyse the noise arising in collaborative filtering when formalise
   improved. [pdf]
 pdf: "./lakshminarayanan11a/lakshminarayanan11a.pdf"
 layout: inproceedings
-key: lakshminarayanan11a
+id: lakshminarayanan11a
 month: 0
 firstpage: 425
 lastpage: 433
+page: 425-433
 origpdf: http://jmlr.org/proceedings/papers/v15/lakshminarayanan11a/lakshminarayanan11a.pdf
 sections: 
-authors:
+author:
 - given: Balaji
   family: Lakshminarayanan
 - given: Guillaume
   family: Bouchard
 - given: Cedric
   family: Archambeau
+date: '2011-06-14 00:07:05'
+publisher: PMLR
 ---

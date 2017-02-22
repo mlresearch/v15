@@ -10,17 +10,20 @@ abstract: Many popular linear classifiers, such as logistic regression, boosting
   classifiers using exclusively unlabeled data. [pdf]
 pdf: "./balasubramanian11a/balasubramanian11a.pdf"
 layout: inproceedings
-key: balasubramanian11a
+id: balasubramanian11a
 month: 0
 firstpage: 137
 lastpage: 145
+page: 137-145
 origpdf: http://jmlr.org/proceedings/papers/v15/balasubramanian11a/balasubramanian11a.pdf
 sections: 
-authors:
+author:
 - given: Krishnakumar
   family: Balasubramanian
 - given: Pinar
   family: Donmez
 - given: Guy
   family: Lebanon
+date: '2011-06-14 00:02:17'
+publisher: PMLR
 ---

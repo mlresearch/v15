@@ -17,15 +17,18 @@ abstract: 'We describe a new approach for modeling the distribution of high-dime
 pdf: "./larochelle11a/larochelle11a.pdf"
 discussion: bengio11a.html
 layout: inproceedings
-key: larochelle11a
+id: larochelle11a
 month: 0
 firstpage: 29
 lastpage: 37
+page: 29-37
 origpdf: http://jmlr.org/proceedings/papers/v15/larochelle11a/larochelle11a.pdf
 sections: 
-authors:
+author:
 - given: Hugo
   family: Larochelle
 - given: Iain
   family: Murray
+date: '2011-06-14 00:00:29'
+publisher: PMLR
 ---

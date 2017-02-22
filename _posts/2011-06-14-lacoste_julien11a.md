@@ -14,17 +14,20 @@ abstract: We consider the problem of approximate inference in the context of Bay
 pdf: "./lacoste_julien11a/lacoste_julien11a.pdf"
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v15/lacoste_julien11a/lacoste_julien11aSupple.pdf
 layout: inproceedings
-key: lacoste_julien11a
+id: lacoste_julien11a
 month: 0
 firstpage: 416
 lastpage: 424
+page: 416-424
 origpdf: http://jmlr.org/proceedings/papers/v15/lacoste_julien11a/lacoste_julien11a.pdf
 sections: 
-authors:
+author:
 - given: Simon
   family: Lacoste–Julien
 - given: Ferenc
   family: Huszar
 - given: Zoubin
   family: Ghahramani
+date: '2011-06-14 00:06:56'
+publisher: PMLR
 ---

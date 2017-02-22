@@ -18,13 +18,14 @@ pdf: "./beygelzimer11a/beygelzimer11a.pdf"
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v15/beygelzimer11a/beygelzimer11aSupple.pdf
 discussion: mcmahan11a.html
 layout: inproceedings
-key: beygelzimer11a
+id: beygelzimer11a
 month: 0
 firstpage: 19
 lastpage: 26
+page: 19-26
 origpdf: http://jmlr.org/proceedings/papers/v15/beygelzimer11a/beygelzimer11a.pdf
 sections: 
-authors:
+author:
 - given: Alina
   family: Beygelzimer
 - given: John
@@ -35,4 +36,6 @@ authors:
   family: Reyzin
 - given: Robert
   family: Schapire
+date: '2011-06-14 00:00:19'
+publisher: PMLR
 ---

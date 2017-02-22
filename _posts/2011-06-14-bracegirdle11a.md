@@ -11,15 +11,18 @@ abstract: Reset models are constrained switching latent Markov models in which t
 pdf: "./bracegirdle11a/bracegirdle11a.pdf"
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v15/bracegirdle11a/bracegirdle11aSupple.zip
 layout: inproceedings
-key: bracegirdle11a
+id: bracegirdle11a
 month: 0
 firstpage: 190
 lastpage: 198
+page: 190-198
 origpdf: http://jmlr.org/proceedings/papers/v15/bracegirdle11a/bracegirdle11a.pdf
 sections: 
-authors:
+author:
 - given: Chris
   family: Bracegirdle
 - given: David
   family: Barber
+date: '2011-06-14 00:03:10'
+publisher: PMLR
 ---

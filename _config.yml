@@ -21,11 +21,11 @@ sections:
 - name: default
   title: 'Part II: Regular Papers'
 layout: proceedings
-key: GordonAISTATS2011
+id: GordonAISTATS2011
 abstract: 
 origpdf: 
 pdf: "./GordonAISTATS2011/GordonAISTATS2011.pdf"
-editors:
+editor:
 - given: Geoffrey
   family: Gordon
 - given: David

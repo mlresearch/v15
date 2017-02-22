@@ -12,13 +12,16 @@ abstract: We consider the problem of estimating the parameters of a mixture of d
   required by unsupervised learning algorithms like [Arora 01, Vempala 02]. [pdf]
 pdf: "./mahalanabis11a/mahalanabis11a.pdf"
 layout: inproceedings
-key: mahalanabis11a
+id: mahalanabis11a
 month: 0
 firstpage: 489
 lastpage: 497
+page: 489-497
 origpdf: http://jmlr.org/proceedings/papers/v15/mahalanabis11a/mahalanabis11a.pdf
 sections: 
-authors:
+author:
 - given: Satyaki
   family: Mahalanabis
+date: '2011-06-14 00:08:09'
+publisher: PMLR
 ---
