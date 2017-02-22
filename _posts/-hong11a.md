@@ -1,0 +1,32 @@
+---
+title: Optimal Distributed Market-Based Planning for Multi-Agent Systems with Shared
+  Resources
+abstract: 'Market-based algorithms have become popular in collaborative multi-agent
+  planning due to their simplicity, distributedness, low communication requirements,
+  and proven success in domains such as task allocation and robotic exploration.  Most
+  existing market-based algorithms, however, suffer from two main drawbacks: resource
+  prices must be carefully handcrafted for each problem domain, and there is no guarantee
+  on final solution quality.  We present an optimal market-based algorithm, derived
+  from a mixed integer program formulation of planning problems.  Our method is based
+  on two well-known techniques for optimization: Dantzig-Wolfe decomposition and Gomory
+  cuts. The former prices resources optimally for a relaxed version of the problem,
+  while the latter introduces new derivative resources to correct pricing imbalances
+  that arise from the relaxation. Our algorithm is applicable to a wide variety of
+  multi-agent planning domains.  We provide optimality guarantees and demonstrate
+  the effectiveness of our algorithm in both centralized and distributed settings
+  on synthetic planning problems. [pdf][supplementary]'
+pdf: "./hong11a/hong11a.pdf"
+supplementary: Supplementary:http://jmlr.org/proceedings/papers/v15/hong11a/hong11aSupple.pdf
+layout: inproceedings
+key: hong11a
+month: 0
+firstpage: 351
+lastpage: 360
+origpdf: http://jmlr.org/proceedings/papers/v15/hong11a/hong11a.pdf
+sections: 
+authors:
+- given: Sue Ann
+  family: Hong
+- given: Geoffrey
+  family: Gordon
+---

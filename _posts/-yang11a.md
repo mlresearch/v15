@@ -1,0 +1,24 @@
+---
+title: The Sample Complexity of Self-Verifying Bayesian Active Learning
+abstract: We prove that access to a prior distribution over target functions can dramatically
+  improve the sample complexity of self-terminating active learning algorithms, so
+  that it is always better than the known results for prior-dependent passive learning.  In
+  particular, this is in stark contrast to the analysis of prior-independent algorithms,
+  where there are simple known learning problems for which no self-terminating algorithm
+  can provide this guarantee for all priors.  [pdf]
+pdf: "./yang11a/yang11a.pdf"
+layout: inproceedings
+key: yang11a
+month: 0
+firstpage: 816
+lastpage: 822
+origpdf: http://jmlr.org/proceedings/papers/v15/yang11a/yang11a.pdf
+sections: 
+authors:
+- given: Liu
+  family: Yang
+- given: Steve
+  family: Hanneke
+- given: Jaime
+  family: Carbonell
+---

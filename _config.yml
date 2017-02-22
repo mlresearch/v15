@@ -1,0 +1,44 @@
+# Site settings
+# Auto generated from v15.bib
+---
+booktitle: Proceedings of the Fourteenth International Conference on Artificial Intelligence
+  and Statistics
+publisher: JMLR Workshop and Conference Proceedings
+logoright: basic_files/SAIS_logo.jpg
+volume: 15
+year: '2011'
+shortname: AISTATS
+month: 0
+address: Fort Lauderdale, FL, USA
+sections:
+- name: preface
+  title: Preface
+- name: notable
+  title: 'Part I: Notable Papers'
+- name: default
+  title: 'Part II: Regular Papers'
+layout: proceedings
+key: GordonAISTATS2011
+abstract: 
+origpdf: 
+pdf: "./GordonAISTATS2011/GordonAISTATS2011.pdf"
+editors:
+- given: Geoffrey
+  family: Gordon
+- given: David
+  family: Dunson
+- given: Miroslav
+  family: Dud\'{i}k
+title: Proceedings of the Fourteenth International Conference on Artificial Intelligence
+  and Statistics
+conference: Proceedings of the Fourteenth International Conference on Artificial Intelligence
+  and Statistics
+email: ''
+description: Proceedings of the Fourteenth International Conference on Artificial
+  Intelligence and Statistics, Fort Lauderdale, FL, USA
+url: http://proceedings.mlr.press
+baseurl: "/v15"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"

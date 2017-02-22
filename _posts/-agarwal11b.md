@@ -1,0 +1,24 @@
+---
+title: Generative Kernels for Exponential Families
+abstract: In this paper, we propose a family of kernels for the data distributions
+  belonging to the  exponential family. We call these kernels generative kernels because
+  they take into account the generative process of the data. Our proposed method considers
+  the geometry of the data distribution to build a set of efficient closed-form kernels
+  best suited for that distribution. We compare our generative kernels on multinomial
+  data and observe improved empirical performance across the board. Moreover, our
+  generative kernels perform significantly better when training size is small, an
+  important property of the generative models. [pdf]
+pdf: "./agarwal11b/agarwal11b.pdf"
+layout: inproceedings
+key: agarwal11b
+month: 0
+firstpage: 85
+lastpage: 92
+origpdf: http://jmlr.org/proceedings/papers/v15/agarwal11b/agarwal11b.pdf
+sections: 
+authors:
+- given: Arvind
+  family: Agarwal
+- given: Hal DaumÃ©
+  family: III
+---
