@@ -12,7 +12,6 @@ start: 2011-04-11
 end: 2011-04-13
 published: 2011-06-14
 month: 0
-address: Fort Lauderdale, FL, USA
 sections:
 - name: preface
   title: Preface
@@ -22,19 +21,17 @@ sections:
   title: 'Part II: Regular Papers'
 layout: proceedings
 id: GordonAISTATS2011
-abstract: 
+abstract: ''
 origpdf: 
-pdf: "./GordonAISTATS2011/GordonAISTATS2011.pdf"
+pdf: http://proceedings.pmlr.press/GordonAISTATS2011/GordonAISTATS2011.pdf
 editor:
 - given: Geoffrey
   family: Gordon
 - given: David
   family: Dunson
 - given: Miroslav
-  family: Dud\'{i}k
+  family: Dudík
 title: Proceedings of the Fourteenth International Conference on Artificial Intelligence
-  and Statistics
-conference: Proceedings of the Fourteenth International Conference on Artificial Intelligence
   and Statistics
 email: ''
 description: Proceedings of the Fourteenth International Conference on Artificial
@@ -45,8 +42,17 @@ twitter_username: mlresearch
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
-gitub:
+github:
   edit: true
+  repository: v15
+conference:
+  name: 
+  url: 
+  location: Fort Lauderdale, FL, USA
+  dates:
+  - 2011-04-11
+  - 2011-04-12
+  - 2011-04-13
 analytics:
   google:
     tracking_id: UA-92432422-1

@@ -2,7 +2,7 @@
 title: Approximate inference for the loss-calibrated Bayesian
 abstract: We consider the problem of approximate inference in the context of Bayesian
   decision theory. Traditional approaches focus on approximating general properties
-  of the posterior, ignoring the decision task -- and associated losses -- for which
+  of the posterior, ignoring the decision task – and associated losses – for which
   the posterior could be used. We argue that this can be suboptimal and propose instead
   to loss-calibrate the approximate inference methods with respect to the decision
   task at hand. We present a general framework rooted in Bayesian decision theory
@@ -11,7 +11,7 @@ abstract: We consider the problem of approximate inference in the context of Bay
   propose an EM-like algorithm on the Bayesian posterior risk and show how it can
   improve a standard approach to Gaussian process classification when losses are asymmetric.
   [pdf][supplementary]
-pdf: "./lacoste_julien11a/lacoste_julien11a.pdf"
+pdf: http://proceedings.pmlr.press/lacoste_julien11a/lacoste_julien11a.pdf
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v15/lacoste_julien11a/lacoste_julien11aSupple.pdf
 layout: inproceedings
 id: lacoste_julien11a
@@ -28,6 +28,16 @@ author:
   family: Huszar
 - given: Zoubin
   family: Ghahramani
-date: '2011-06-14 00:06:56'
+date: 2011-06-14
 publisher: PMLR
+container-title: Proceedings of the Fourteenth International Conference on Artificial
+  Intelligence and Statistics
+volume: '15'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2011
+  - 6
+  - 14
+# Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
