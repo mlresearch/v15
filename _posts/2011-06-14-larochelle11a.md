@@ -30,6 +30,7 @@ author:
 - given: Iain
   family: Murray
 date: 2011-06-14
+address: Fort Lauderdale, FL, USA
 publisher: PMLR
 container-title: Proceedings of the Fourteenth International Conference on Artificial
   Intelligence and Statistics
