@@ -8,7 +8,7 @@ abstract: We analyse the noise arising in collaborative filtering when formalise
   variational inference algorithms and estimate the hyperparameters by type-II maximum
   likelihood. Experiments on real data show that the predictive performance is significantly
   improved. [pdf]
-pdf: http://jmlr.org/proceedings/papers/v15/lakshminarayanan11a/lakshminarayanan11a.pdf
+pdf: http://proceedings.mlr.press/v15/lakshminarayanan11a/lakshminarayanan11a.pdf
 layout: inproceedings
 id: lakshminarayanan11a
 month: 0
@@ -23,7 +23,6 @@ author:
   family: Bouchard
 - given: Cedric
   family: Archambeau
-reponame: v15
 date: 2011-06-14
 address: Fort Lauderdale, FL, USA
 publisher: PMLR

@@ -17,7 +17,7 @@ abstract: Active learning deals with the problem of selecting a small subset of 
   resulting algorithm scales polynomially in the number of weak learners. We test
   ActBoost on several datasets to illustrate its performance and demonstrate its robustness
   to initialization. [pdf][supplementary]
-pdf: http://jmlr.org/proceedings/papers/v15/trapeznikov11a/trapeznikov11a.pdf
+pdf: http://proceedings.mlr.press/v15/trapeznikov11a/trapeznikov11a.pdf
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v15/trapeznikov11a/trapeznikov11aSupple.pdf
 layout: inproceedings
 id: trapeznikov11a
@@ -33,7 +33,6 @@ author:
   family: Saligrama
 - given: David
   family: Castanon
-reponame: v15
 date: 2011-06-14
 address: Fort Lauderdale, FL, USA
 publisher: PMLR

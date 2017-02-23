@@ -11,7 +11,7 @@ abstract: We consider the problem of approximate inference in the context of Bay
   propose an EM-like algorithm on the Bayesian posterior risk and show how it can
   improve a standard approach to Gaussian process classification when losses are asymmetric.
   [pdf][supplementary]
-pdf: http://jmlr.org/proceedings/papers/v15/lacoste_julien11a/lacoste_julien11a.pdf
+pdf: http://proceedings.mlr.press/v15/lacoste_julien11a/lacoste_julien11a.pdf
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v15/lacoste_julien11a/lacoste_julien11aSupple.pdf
 layout: inproceedings
 id: lacoste_julien11a
@@ -27,7 +27,6 @@ author:
   family: Huszar
 - given: Zoubin
   family: Ghahramani
-reponame: v15
 date: 2011-06-14
 address: Fort Lauderdale, FL, USA
 publisher: PMLR

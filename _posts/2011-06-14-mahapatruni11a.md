@@ -13,7 +13,7 @@ abstract: In this paper we present a generalization of kernel density estimation
   We empirically compare CAKE to other density estimators proposed in the statistics
   literature for handling heterogeneous smoothness on different synthetic and natural
   distributions.  [pdf][supplementary]
-pdf: http://jmlr.org/proceedings/papers/v15/mahapatruni11a/mahapatruni11a.pdf
+pdf: http://proceedings.mlr.press/v15/mahapatruni11a/mahapatruni11a.pdf
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v15/mahapatruni11a/mahapatruni11aSupple.pdf
 layout: inproceedings
 id: mahapatruni11a
@@ -27,7 +27,6 @@ author:
   family: Mahapatruni
 - given: Alexander
   family: Gray
-reponame: v15
 date: 2011-06-14
 address: Fort Lauderdale, FL, USA
 publisher: PMLR

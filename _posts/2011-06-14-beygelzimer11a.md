@@ -14,7 +14,7 @@ abstract: 'We address the problem of competing with any large set of N policies 
   of all previous algorithms, whether in a stochastic or adversarial environment,
   and bring us closer to providing guarantees for this setting that are comparable
   to those in standard supervised learning.  '
-pdf: http://jmlr.org/proceedings/papers/v15/beygelzimer11a/beygelzimer11a.pdf
+pdf: http://proceedings.mlr.press/v15/beygelzimer11a/beygelzimer11a.pdf
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v15/beygelzimer11a/beygelzimer11aSupple.pdf
 discussion: mcmahan11a.html
 layout: inproceedings
@@ -35,7 +35,6 @@ author:
   family: Reyzin
 - given: Robert
   family: Schapire
-reponame: v15
 date: 2011-06-14
 address: Fort Lauderdale, FL, USA
 publisher: PMLR

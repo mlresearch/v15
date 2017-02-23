@@ -8,7 +8,7 @@ abstract: Reset models are constrained switching latent Markov models in which t
   with T squared and smoothing T cubed. We discuss approximate filtering and smoothing
   routines that scale linearly with T. Applications are given to change-point models
   and reset linear dynamical systems. [pdf][supplementary]
-pdf: http://jmlr.org/proceedings/papers/v15/bracegirdle11a/bracegirdle11a.pdf
+pdf: http://proceedings.mlr.press/v15/bracegirdle11a/bracegirdle11a.pdf
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v15/bracegirdle11a/bracegirdle11aSupple.zip
 layout: inproceedings
 id: bracegirdle11a
@@ -22,7 +22,6 @@ author:
   family: Bracegirdle
 - given: David
   family: Barber
-reponame: v15
 date: 2011-06-14
 address: Fort Lauderdale, FL, USA
 publisher: PMLR

@@ -8,7 +8,7 @@ abstract: Many popular linear classifiers, such as logistic regression, boosting
   demonstrate it on synthetic and real-world data. In particular, we show how the
   estimate is used for evaluating classifiers in transfer learning, and for training
   classifiers using exclusively unlabeled data. [pdf]
-pdf: http://jmlr.org/proceedings/papers/v15/balasubramanian11a/balasubramanian11a.pdf
+pdf: http://proceedings.mlr.press/v15/balasubramanian11a/balasubramanian11a.pdf
 layout: inproceedings
 id: balasubramanian11a
 month: 0
@@ -23,7 +23,6 @@ author:
   family: Donmez
 - given: Guy
   family: Lebanon
-reponame: v15
 date: 2011-06-14
 address: Fort Lauderdale, FL, USA
 publisher: PMLR
