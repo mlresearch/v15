@@ -22,8 +22,6 @@ sections:
 layout: proceedings
 id: GordonAISTATS2011
 abstract: ''
-origpdf: 
-pdf: http://proceedings.pmlr.press/GordonAISTATS2011/GordonAISTATS2011.pdf
 editor:
 - given: Geoffrey
   family: Gordon

@@ -14,7 +14,7 @@ abstract: 'We describe a new approach for modeling the distribution of high-dime
   valid probabilities to observations. We show that this new model outperforms other
   multivariate binary distribution estimators on several datasets and performs similarly
   to a large (but intractable) RBM.  '
-pdf: http://proceedings.pmlr.press/larochelle11a/larochelle11a.pdf
+pdf: http://jmlr.org/proceedings/papers/v15/larochelle11a/larochelle11a.pdf
 discussion: bengio11a.html
 layout: inproceedings
 id: larochelle11a
@@ -22,13 +22,13 @@ month: 0
 firstpage: 29
 lastpage: 37
 page: 29-37
-origpdf: http://jmlr.org/proceedings/papers/v15/larochelle11a/larochelle11a.pdf
 sections: 
 author:
 - given: Hugo
   family: Larochelle
 - given: Iain
   family: Murray
+reponame: v15
 date: 2011-06-14
 address: Fort Lauderdale, FL, USA
 publisher: PMLR

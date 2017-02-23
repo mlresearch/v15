@@ -10,18 +10,18 @@ abstract: We consider the problem of estimating the parameters of a mixture of d
   a mild separation condition. Our algorithm uses only polynomially many (in d, k)
   samples and oracle calls, and our separation condition is much weaker than those
   required by unsupervised learning algorithms like [Arora 01, Vempala 02]. [pdf]
-pdf: http://proceedings.pmlr.press/mahalanabis11a/mahalanabis11a.pdf
+pdf: http://jmlr.org/proceedings/papers/v15/mahalanabis11a/mahalanabis11a.pdf
 layout: inproceedings
 id: mahalanabis11a
 month: 0
 firstpage: 489
 lastpage: 497
 page: 489-497
-origpdf: http://jmlr.org/proceedings/papers/v15/mahalanabis11a/mahalanabis11a.pdf
 sections: 
 author:
 - given: Satyaki
   family: Mahalanabis
+reponame: v15
 date: 2011-06-14
 address: Fort Lauderdale, FL, USA
 publisher: PMLR
