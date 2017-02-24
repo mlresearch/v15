@@ -7,7 +7,8 @@ layout: null
   URL: {{site.url}}{{site.baseurl}}{{ post.url }}{% if post.doi %}
   DOI: {{ post.doi }}{% endif %}{% if post.pdf %}
   PDF: {{ post.pdf }}{% endif %}{% if post.issue %}
-  issue: {{ post.issue }}{% endif %}
+  issue: {{ post.issue }}{% endif %}{% if post.series %}
+  series: {{ post.series }}{% endif %}
   container-title: {{ post.container-title }}
   publisher: {{ post.publisher }}  
   author: {% for person in post.author %}
