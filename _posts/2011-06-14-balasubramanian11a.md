@@ -10,6 +10,7 @@ abstract: Many popular linear classifiers, such as logistic regression, boosting
   classifiers using exclusively unlabeled data. [pdf]
 pdf: http://proceedings.mlr.press/v15/balasubramanian11a/balasubramanian11a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: balasubramanian11a
 month: 0
 firstpage: 137

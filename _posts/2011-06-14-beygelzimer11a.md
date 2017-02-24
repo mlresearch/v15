@@ -18,6 +18,7 @@ pdf: http://proceedings.mlr.press/v15/beygelzimer11a/beygelzimer11a.pdf
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v15/beygelzimer11a/beygelzimer11aSupple.pdf
 discussion: mcmahan11a.html
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: beygelzimer11a
 month: 0
 firstpage: 19

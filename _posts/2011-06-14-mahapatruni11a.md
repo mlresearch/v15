@@ -16,6 +16,7 @@ abstract: In this paper we present a generalization of kernel density estimation
 pdf: http://proceedings.mlr.press/v15/mahapatruni11a/mahapatruni11a.pdf
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v15/mahapatruni11a/mahapatruni11aSupple.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: mahapatruni11a
 month: 0
 firstpage: 498

@@ -10,6 +10,7 @@ abstract: We analyse the noise arising in collaborative filtering when formalise
   improved. [pdf]
 pdf: http://proceedings.mlr.press/v15/lakshminarayanan11a/lakshminarayanan11a.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: lakshminarayanan11a
 month: 0
 firstpage: 425

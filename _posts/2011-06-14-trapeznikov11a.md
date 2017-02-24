@@ -20,6 +20,7 @@ abstract: Active learning deals with the problem of selecting a small subset of 
 pdf: http://proceedings.mlr.press/v15/trapeznikov11a/trapeznikov11a.pdf
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v15/trapeznikov11a/trapeznikov11aSupple.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: trapeznikov11a
 month: 0
 firstpage: 743

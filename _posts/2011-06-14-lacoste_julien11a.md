@@ -14,6 +14,7 @@ abstract: We consider the problem of approximate inference in the context of Bay
 pdf: http://proceedings.mlr.press/v15/lacoste_julien11a/lacoste_julien11a.pdf
 supplementary: Supplementary:http://jmlr.org/proceedings/papers/v15/lacoste_julien11a/lacoste_julien11aSupple.pdf
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: lacoste_julien11a
 month: 0
 firstpage: 416

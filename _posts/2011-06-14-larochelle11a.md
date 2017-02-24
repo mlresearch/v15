@@ -17,6 +17,7 @@ abstract: 'We describe a new approach for modeling the distribution of high-dime
 pdf: http://proceedings.mlr.press/v15/larochelle11a/larochelle11a.pdf
 discussion: bengio11a.html
 layout: inproceedings
+series: Proceedings of Machine Learning Research
 id: larochelle11a
 month: 0
 firstpage: 29
