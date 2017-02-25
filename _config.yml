@@ -28,11 +28,20 @@ editor:
   family: Dunson
 - given: Miroslav
   family: Dudík
-title: Proceedings of the Fourteenth International Conference on Artificial Intelligence
-  and Statistics
-email: ''
-description: Proceedings of the Fourteenth International Conference on Artificial
-  Intelligence and Statistics, Fort Lauderdale, FL, USA
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Fourteenth International Conference on Artificial Intelligence and Statistics
+    Held in Fort Lauderdale, FL, USA on 11-13 April 2011
+
+  Published as Volume 15 by the Proceedings of Machine Learning Research on 14 June 2011.
+
+  Volume Edited by:
+    Geoffrey Gordon
+    David Dunson
+    Miroslav Dudík
+
+  Series Editors:
+    Neil D. Lawrence
 url: http://proceedings.mlr.press
 baseurl: "/v15"
 twitter_username: mlresearch
@@ -42,6 +51,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v15
+email: ''
 conference:
   name: Proceedings of the Fourteenth International Conference on Artificial Intelligence
     and Statistics
