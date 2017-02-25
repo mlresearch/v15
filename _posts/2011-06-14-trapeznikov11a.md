@@ -23,6 +23,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: trapeznikov11a
 month: 0
+tex_title: Active Boosted Learning (ActBoost)
 firstpage: 743
 lastpage: 751
 page: 743-751

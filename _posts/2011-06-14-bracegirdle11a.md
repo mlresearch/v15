@@ -14,6 +14,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: bracegirdle11a
 month: 0
+tex_title: 'Switch-Reset Models : Exact and Approximate Inference'
 firstpage: 190
 lastpage: 198
 page: 190-198

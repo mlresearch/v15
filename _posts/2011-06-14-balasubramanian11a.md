@@ -13,6 +13,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: balasubramanian11a
 month: 0
+tex_title: 'Unsupervised Supervised Learning II: Margin-Based Classification without
+  Labels'
 firstpage: 137
 lastpage: 145
 page: 137-145

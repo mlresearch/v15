@@ -17,6 +17,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: lacoste_julien11a
 month: 0
+tex_title: Approximate inference for the loss-calibrated Bayesian
 firstpage: 416
 lastpage: 424
 page: 416-424

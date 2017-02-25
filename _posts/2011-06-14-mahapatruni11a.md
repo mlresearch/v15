@@ -19,6 +19,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: mahapatruni11a
 month: 0
+tex_title: 'CAKE: Convex Adaptive Kernel Density Estimation'
 firstpage: 498
 lastpage: 506
 page: 498-506

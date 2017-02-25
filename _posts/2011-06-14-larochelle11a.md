@@ -20,6 +20,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: larochelle11a
 month: 0
+tex_title: The Neural Autoregressive Distribution Estimator
 firstpage: 29
 lastpage: 37
 page: 29-37

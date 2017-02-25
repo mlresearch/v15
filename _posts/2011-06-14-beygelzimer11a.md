@@ -21,6 +21,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: beygelzimer11a
 month: 0
+tex_title: Contextual Bandit Algorithms with Supervised Learning Guarantees
 firstpage: 19
 lastpage: 26
 page: 19-26

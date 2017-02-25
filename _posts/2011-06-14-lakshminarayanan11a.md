@@ -13,6 +13,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: lakshminarayanan11a
 month: 0
+tex_title: Robust Bayesian Matrix Factorisation
 firstpage: 425
 lastpage: 433
 page: 425-433

@@ -21,6 +21,8 @@ layout: proceedings
 series: Proceedings of Machine Learning Research
 id: GordonAISTATS2011
 abstract: ''
+tex_title: 
+title: Proceedings of Machine Learning Research
 editor:
 - given: Geoffrey
   family: Gordon
@@ -28,7 +30,6 @@ editor:
   family: Dunson
 - given: Miroslav
   family: Dudík
-title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Fourteenth International Conference on Artificial Intelligence and Statistics
     Held in Fort Lauderdale, FL, USA on 11-13 April 2011

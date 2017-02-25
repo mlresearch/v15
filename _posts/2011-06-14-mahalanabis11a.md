@@ -15,6 +15,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: mahalanabis11a
 month: 0
+tex_title: Learning mixtures of Gaussians with maximum-a-posteriori oracle
 firstpage: 489
 lastpage: 497
 page: 489-497
