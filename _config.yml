@@ -43,6 +43,7 @@ description: |
 
   Series Editors:
     Neil D. Lawrence
+date_str: 11--13 Apr
 url: http://proceedings.mlr.press
 baseurl: "/v15"
 twitter_username: mlresearch
@@ -52,6 +53,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v15
+bibtex_copy: true
 email: ''
 conference:
   name: Proceedings of the Fourteenth International Conference on Artificial Intelligence
