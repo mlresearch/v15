@@ -9,7 +9,7 @@ abstract: Reset models are constrained switching latent Markov models in which t
   routines that scale linearly with T. Applications are given to change-point models
   and reset linear dynamical systems. [pdf][supplementary]
 pdf: http://proceedings.mlr.press/v15/bracegirdle11a/bracegirdle11a.pdf
-supplementary: Supplementary:http://jmlr.org/proceedings/papers/v15/bracegirdle11a/bracegirdle11aSupple.zip
+supplementary: http://proceedings.mlr.press/v15/bracegirdle11a///jmlr.org/proceedings/papers/v15/bracegirdle11a/bracegirdle11aSupple.zip
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: bracegirdle11a
@@ -18,7 +18,8 @@ tex_title: 'Switch-Reset Models : Exact and Approximate Inference'
 firstpage: 190
 lastpage: 198
 page: 190-198
-sections: 
+order: 190
+cycles: false
 author:
 - given: Chris
   family: Bracegirdle

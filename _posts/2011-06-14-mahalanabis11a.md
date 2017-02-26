@@ -19,7 +19,8 @@ tex_title: Learning mixtures of Gaussians with maximum-a-posteriori oracle
 firstpage: 489
 lastpage: 497
 page: 489-497
-sections: 
+order: 489
+cycles: false
 author:
 - given: Satyaki
   family: Mahalanabis

@@ -15,7 +15,7 @@ abstract: 'We address the problem of competing with any large set of N policies 
   and bring us closer to providing guarantees for this setting that are comparable
   to those in standard supervised learning.  '
 pdf: http://proceedings.mlr.press/v15/beygelzimer11a/beygelzimer11a.pdf
-supplementary: Supplementary:http://jmlr.org/proceedings/papers/v15/beygelzimer11a/beygelzimer11aSupple.pdf
+supplementary: http://proceedings.mlr.press/v15/beygelzimer11a///jmlr.org/proceedings/papers/v15/beygelzimer11a/beygelzimer11aSupple.pdf
 discussion: mcmahan11a.html
 layout: inproceedings
 series: Proceedings of Machine Learning Research
@@ -25,7 +25,8 @@ tex_title: Contextual Bandit Algorithms with Supervised Learning Guarantees
 firstpage: 19
 lastpage: 26
 page: 19-26
-sections: 
+order: 19
+cycles: false
 author:
 - given: Alina
   family: Beygelzimer

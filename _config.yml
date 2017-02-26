@@ -23,6 +23,7 @@ id: GordonAISTATS2011
 abstract: ''
 tex_title: 
 title: Proceedings of Machine Learning Research
+cycles: false
 editor:
 - given: Geoffrey
   family: Gordon
@@ -53,9 +54,12 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v15
-bibtex_copy: true
-endnote_copy: true
-apa_copy: true
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
 email: ''
 conference:
   name: Proceedings of the Fourteenth International Conference on Artificial Intelligence

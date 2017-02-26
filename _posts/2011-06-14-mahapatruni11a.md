@@ -14,7 +14,7 @@ abstract: In this paper we present a generalization of kernel density estimation
   literature for handling heterogeneous smoothness on different synthetic and natural
   distributions.  [pdf][supplementary]
 pdf: http://proceedings.mlr.press/v15/mahapatruni11a/mahapatruni11a.pdf
-supplementary: Supplementary:http://jmlr.org/proceedings/papers/v15/mahapatruni11a/mahapatruni11aSupple.pdf
+supplementary: http://proceedings.mlr.press/v15/mahapatruni11a///jmlr.org/proceedings/papers/v15/mahapatruni11a/mahapatruni11aSupple.pdf
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: mahapatruni11a
@@ -23,7 +23,8 @@ tex_title: 'CAKE: Convex Adaptive Kernel Density Estimation'
 firstpage: 498
 lastpage: 506
 page: 498-506
-sections: 
+order: 498
+cycles: false
 author:
 - given: Ravi Sastry Ganti
   family: Mahapatruni

@@ -17,7 +17,8 @@ tex_title: Robust Bayesian Matrix Factorisation
 firstpage: 425
 lastpage: 433
 page: 425-433
-sections: 
+order: 425
+cycles: false
 author:
 - given: Balaji
   family: Lakshminarayanan

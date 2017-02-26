@@ -18,7 +18,7 @@ abstract: Active learning deals with the problem of selecting a small subset of 
   ActBoost on several datasets to illustrate its performance and demonstrate its robustness
   to initialization. [pdf][supplementary]
 pdf: http://proceedings.mlr.press/v15/trapeznikov11a/trapeznikov11a.pdf
-supplementary: Supplementary:http://jmlr.org/proceedings/papers/v15/trapeznikov11a/trapeznikov11aSupple.pdf
+supplementary: http://proceedings.mlr.press/v15/trapeznikov11a///jmlr.org/proceedings/papers/v15/trapeznikov11a/trapeznikov11aSupple.pdf
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: trapeznikov11a
@@ -27,7 +27,8 @@ tex_title: Active Boosted Learning (ActBoost)
 firstpage: 743
 lastpage: 751
 page: 743-751
-sections: 
+order: 743
+cycles: false
 author:
 - given: Kirill
   family: Trapeznikov

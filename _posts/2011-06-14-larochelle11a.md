@@ -24,7 +24,8 @@ tex_title: The Neural Autoregressive Distribution Estimator
 firstpage: 29
 lastpage: 37
 page: 29-37
-sections: 
+order: 29
+cycles: false
 author:
 - given: Hugo
   family: Larochelle
