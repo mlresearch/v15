@@ -69,7 +69,7 @@ conference:
   - 2011-04-11
   - 2011-04-12
   - 2011-04-13
-  number: '14'
+  number: 14
 analytics:
   google:
     tracking_id: UA-92432422-1
