@@ -15,7 +15,7 @@ abstract: 'We address the problem of competing with any large set of N policies 
   and bring us closer to providing guarantees for this setting that are comparable
   to those in standard supervised learning.  '
 pdf: http://proceedings.mlr.press/v15/beygelzimer11a/beygelzimer11a.pdf
-supplementary: http://proceedings.mlr.press/v15/beygelzimer11a///jmlr.org/proceedings/papers/v15/beygelzimer11a/beygelzimer11aSupple.pdf
+supplementary: http://proceedings.mlr.press/v15/beygelzimer11a/beygelzimer11aSupple.pdf
 discussion: mcmahan11a.html
 layout: inproceedings
 series: Proceedings of Machine Learning Research

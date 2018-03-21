@@ -12,7 +12,7 @@ abstract: We consider the problem of approximate inference in the context of Bay
   improve a standard approach to Gaussian process classification when losses are asymmetric.
   [pdf][supplementary]
 pdf: http://proceedings.mlr.press/v15/lacoste_julien11a/lacoste_julien11a.pdf
-supplementary: http://proceedings.mlr.press/v15/lacoste_julien11a///jmlr.org/proceedings/papers/v15/lacoste_julien11a/lacoste_julien11aSupple.pdf
+supplementary: http://proceedings.mlr.press/v15/lacoste_julien11a/lacoste_julien11aSupple.pdf
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: lacoste_julien11a
