@@ -27,7 +27,7 @@ author:
 - given: Simon
   family: Lacoste–Julien
 - given: Ferenc
-  family: Huszar
+  family: Huszár
 - given: Zoubin
   family: Ghahramani
 date: 2011-06-14
