@@ -6,10 +6,10 @@ abstract: We consider the problem of estimating the parameters of a mixture of d
   oracle which given any sample from a mixture of distributions, tells the learner
   which component distribution was the most likely to have generated it. We describe
   a learning algorithm in this setting which accurately estimates the parameters of
-  a mixture of k spherical Gaussians in R^d assuming the component Gaussians satisfy
-  a mild separation condition. Our algorithm uses only polynomially many (in d, k)
+  a mixture of $k$ spherical Gaussians in $\mathbb{R}^d$ assuming the component Gaussians satisfy
+  a mild separation condition. Our algorithm uses only polynomially many (in $d, k$)
   samples and oracle calls, and our separation condition is much weaker than those
-  required by unsupervised learning algorithms like [Arora 01, Vempala 02]. [pdf]
+  required by unsupervised learning algorithms like [Arora 01, Vempala 02].
 pdf: http://proceedings.mlr.press/v15/mahalanabis11a/mahalanabis11a.pdf
 layout: inproceedings
 series: Proceedings of Machine Learning Research
