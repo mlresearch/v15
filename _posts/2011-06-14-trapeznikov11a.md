@@ -16,7 +16,7 @@ abstract: Active learning deals with the problem of selecting a small subset of 
   the non-convex sparse structure and show that the computational complexity of the
   resulting algorithm scales polynomially in the number of weak learners. We test
   ActBoost on several datasets to illustrate its performance and demonstrate its robustness
-  to initialization. [pdf][supplementary]
+  to initialization.
 pdf: http://proceedings.mlr.press/v15/trapeznikov11a/trapeznikov11a.pdf
 supplementary: http://proceedings.mlr.press/v15/trapeznikov11a/trapeznikov11aSupple.pdf
 layout: inproceedings

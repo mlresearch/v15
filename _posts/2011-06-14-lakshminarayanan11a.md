@@ -7,7 +7,7 @@ abstract: We analyse the noise arising in collaborative filtering when formalise
   features as the standard Gaussian is included as a special case. We derive several
   variational inference algorithms and estimate the hyperparameters by type-II maximum
   likelihood. Experiments on real data show that the predictive performance is significantly
-  improved. [pdf]
+  improved.
 pdf: http://proceedings.mlr.press/v15/lakshminarayanan11a/lakshminarayanan11a.pdf
 layout: inproceedings
 series: Proceedings of Machine Learning Research

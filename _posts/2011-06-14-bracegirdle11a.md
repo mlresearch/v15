@@ -4,10 +4,10 @@ abstract: Reset models are constrained switching latent Markov models in which t
   dynamics either continues according to a standard model, or the latent variable
   is resampled. We consider exact marginal inference in this class of models and their
   extension, the switch-reset models. A further convenient class of conjugate-exponential
-  reset models is also discussed. For a length T time-series, exact filtering scales
-  with T squared and smoothing T cubed. We discuss approximate filtering and smoothing
-  routines that scale linearly with T. Applications are given to change-point models
-  and reset linear dynamical systems. [pdf][supplementary]
+  reset models is also discussed. For a length $T$ time-series, exact filtering scales
+  with $T^2$ squared and smoothing $T^3$ cubed. We discuss approximate filtering and smoothing
+  routines that scale linearly with $T$. Applications are given to change-point models
+  and reset linear dynamical systems.
 pdf: http://proceedings.mlr.press/v15/bracegirdle11a/bracegirdle11a.pdf
 supplementary: http://proceedings.mlr.press/v15/bracegirdle11a/bracegirdle11aSupple.zip
 layout: inproceedings
